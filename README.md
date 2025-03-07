@@ -1,5 +1,5 @@
 # Airbnb-Analysis
-# Airbnb Analysis
+
 
 ## 📌 Project Overview
 This project analyzes Airbnb data using MongoDB Atlas, Python, and visualization tools like Streamlit, Power BI, and Tableau. It aims to uncover insights into pricing variations, availability trends, and location-based patterns, helping stakeholders make data-driven decisions.
@@ -46,5 +46,5 @@ This project analyzes Airbnb data using MongoDB Atlas, Python, and visualization
 - Develop an **interactive Streamlit app** for data exploration.
 - Create a **Power BI/Tableau dashboard** for key insights.
 
--
+
 
